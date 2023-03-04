@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with: **RichRP**
 
-- 👨‍💻 All of my projects are available at: [RichRP](RichRP)
+- 👨‍💻 All of my projects are available at: **RichRP**
 
-- 📝 I regularly write articles on: [Fani serwera RichRP](Fani serwera RichRP)
+- 📝 I regularly write articles on: **Fani serwera RichRP**
 
 - 💬 Ask me about: **RichRP**
 
-- 📄 Know about my experiences: [ask GLN](ask GLN)
+- 📄 Know about my experiences: **Ask GLN**
 
 - ⚡ Fun fact **1. Hosting RichRP wziety w leasing na siostre.**
 
