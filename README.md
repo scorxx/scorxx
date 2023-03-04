@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorxx&label=Profile%20views&color=000000&style=flat" alt="scorxx" /> </p>
 
-- 🔭 Aktualnie pracuje nad: **RichRP**
+- 🔭 I'm actually working on: **RichRP**
 
-- 🌱 I’m currently learning **to code like GLN**
+- 🌱 I’m currently learning: **to code like GLN**
 
-- 🤝 I’m looking for help with **RichRP**
+- 🤝 I’m looking for help with: **RichRP**
 
-- 👨‍💻 All of my projects are available at [RichRP](RichRP)
+- 👨‍💻 All of my projects are available at: [RichRP](RichRP)
 
-- 📝 I regularly write articles on [Fani serwera RichRP](Fani serwera RichRP)
+- 📝 I regularly write articles on: [Fani serwera RichRP](Fani serwera RichRP)
 
-- 💬 Ask me about **RichRP**
+- 💬 Ask me about: **RichRP**
 
-- 📄 Know about my experiences [ask GLN](ask GLN)
+- 📄 Know about my experiences: [ask GLN](ask GLN)
 
 - ⚡ Fun fact **1. Hosting RichRP wziety w leasing na siostre.**
 
