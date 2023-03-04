@@ -1,5 +1,5 @@
 <h1 align="center">Siemano 👋, jestem scorx i kocham richrp</h1>
-<h3 align="center">kocham pastowac bogate rp <3 i mateusza glinskiego</h3>
+<h3 align="center">kocham richrp i mateusza glinskiego</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorxx&label=Profile%20views&color=000000&style=flat" alt="scorxx" /> </p>
 
