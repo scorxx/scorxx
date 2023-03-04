@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/940521582684672011/1081505442573844551/image.png)
+![](https://cdn.discordapp.com/attachments/940521582684672011/1081506420186419281/image.png)
 <h1 align="center">Siemano 👋, jestem scorx i kocham richrp</h1>
 <h3 align="center">kocham richrp i mateusza glinskiego</h3>
 
