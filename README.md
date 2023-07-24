@@ -1,5 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<h1 align="center">👋, welcome here</h1>
+<h1 align="center">Welcome here, I'm scorx 👋</h1>
 <h3 align="center">.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorxx&label=Profile%20views&color=000000&style=flat" alt="scorxx" /> </p>
