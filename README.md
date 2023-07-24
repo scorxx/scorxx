@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorxx&label=Profile%20views&color=000000&style=flat" alt="scorxx" /> </p>
 
-- 🔭 I'm actually working on: **...**
+- 🔭 I’m currently working on <a href="https://exploitly.pl/">Exploitly CyberSec Group</a> :grin:
 - 🌱 I’m currently learning: **CyberSec & Linux**
 - ⚡ Fun fact **Hosting RichRP byl wziety w leasing na siostre.**
 
