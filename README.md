@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorxx&label=Profile%20views&color=000000&style=flat" alt="scorxx" /> </p>
 
-- 🔭 I’m currently working on <a href="https://exploitly.pl/">Exploitly CyberSec Group</a> :grin:
 - 🌱 I’m currently learning: **Python & Lua**
 - ⚡ Fun fact **2+2 is not 4...**
 
